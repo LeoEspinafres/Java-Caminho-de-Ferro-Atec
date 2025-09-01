@@ -1,0 +1,127 @@
+# 75 Passageiros
+PASSENGER|Julia Ramos|2001-01-10
+PASSENGER|James Williams|2006-02-15
+PASSENGER|Beatriz Sousa|2006-03-20
+PASSENGER|Robert Miller|2006-04-25
+PASSENGER|Marcos Pereira|2006-05-30
+PASSENGER|Emily Wilson|2006-06-04
+PASSENGER|Tiago Almeida|2006-07-09
+PASSENGER|Charlotte Martinez|2006-08-14
+PASSENGER|Rafael Gomes|2006-09-19
+PASSENGER|Julia Ramos|2003-02-15
+PASSENGER|Gabriel Rocha|1959-01-05
+PASSENGER|Mia Taylor|1959-02-10
+PASSENGER|Bruno Lima|1959-01-05
+PASSENGER|Amelia Thomas|1959-04-20
+PASSENGER|Guilherme Fernandes|1959-05-25
+PASSENGER|Harper White|1959-06-30
+PASSENGER|Daniel Mendes|1959-07-05
+PASSENGER|Evelyn Harris|1959-08-10
+PASSENGER|Leonardo Nunes|1959-09-15
+PASSENGER|Abigail Martin|1959-10-20
+PASSENGER|Ricardo Carvalho|1985-05-15
+PASSENGER|Luna Thompson|1990-06-19
+PASSENGER|João Cardoso|1982-04-11
+PASSENGER|Zoe Garcia|1978-07-22
+PASSENGER|Miguel Batista|1989-11-02
+PASSENGER|Ella Martinez|1981-12-13
+PASSENGER|Fernando Moreira|1984-09-17
+PASSENGER|Avery Moore|1993-08-25
+PASSENGER|Rodrigo Pinto|1986-11-05
+PASSENGER|Sofia Taylor|1988-12-15
+PASSENGER|Matheus Teixeira|1992-03-19
+PASSENGER|Grace Brown|1980-05-23
+PASSENGER|António Ribeiro|1979-08-28
+PASSENGER|Chloe Wilson|1983-02-06
+PASSENGER|André Martins|1991-09-11
+PASSENGER|Aria Martinez|1987-01-07
+PASSENGER|Diogo Barros|1990-04-14
+PASSENGER|Scarlett Miller|1982-06-18
+PASSENGER|José Fernandes|1986-10-22
+PASSENGER|Victoria Davis|1994-07-12
+PASSENGER|Henrique Sousa|1993-01-03
+PASSENGER|Penelope Jones|1981-11-08
+PASSENGER|Francisco Monteiro|1988-05-28
+PASSENGER|Aurora Lee|1995-03-06
+PASSENGER|Eduardo Pires|1992-06-30
+PASSENGER|Hazel Walker|1987-12-12
+PASSENGER|Tomás Correia|1977-04-19
+PASSENGER|Nora Young|1985-07-25
+PASSENGER|Joaquim Barbosa|1990-08-30
+PASSENGER|Marco Silva|1984-09-02
+PASSENGER|Mariana Souza|1981-10-07
+PASSENGER|Emily Johnson|1983-11-11
+PASSENGER|João Santos|1989-02-14
+PASSENGER|Mia Brown|1992-01-18
+PASSENGER|Pedro Ramos|1980-03-22
+PASSENGER|Isabella Taylor|1985-06-27
+PASSENGER|Carlos Mendes|1979-09-01
+PASSENGER|Lucas Ferreira|1994-12-09
+PASSENGER|Ana Monteiro|1986-05-13
+PASSENGER|Gabriel Lima|1991-07-17
+PASSENGER|Daniela Alves|1982-10-21
+PASSENGER|Marco Pereira|1987-11-25
+PASSENGER|Fernanda Martins|1989-04-15
+PASSENGER|Luís Correia|1993-02-20
+PASSENGER|Mia Costa|1980-08-24
+PASSENGER|Amanda Cruz|1978-12-29
+PASSENGER|Luís Oliveira|1984-07-03
+PASSENGER|Felipe Cardoso|1990-06-08
+PASSENGER|Bianca Rocha|1981-09-13
+PASSENGER|Mia Silva|1983-10-27
+PASSENGER|Luís Ferreira|1991-01-30
+PASSENGER|Luís Mendes|1988-03-04
+PASSENGER|Luís Rodrigo|1994-11-23
+PASSENGER|Pedro Costa|1985-12-05
+PASSENGER|Mia Mendes|1992-02-29
+# Lista de 50 Serviços de Comboios em Portugal
+SERVICE|245|12.50|07:10|Lisboa - Santa Apolónia|08:10|Entroncamento|08:45|Pombal|09:20|Coimbra-B|10:00|Aveiro|10:40|Porto - Campanhã
+SERVICE|357|15.80|10:05|Lisboa - Oriente|11:15|Santarém|12:10|Leiria|12:50|Coimbra-B|13:30|Aveiro|14:10|Braga
+SERVICE|128|7.60|14:00|Porto - Campanhã|14:45|Espinho|15:20|Ovar|16:00|Aveiro|16:40|Coimbra-B|17:30|Lisboa - Oriente
+SERVICE|452|9.90|16:20|Lisboa - Santa Apolónia|17:10|Azambuja|18:00|Santarém|18:40|Entroncamento|19:20|Leiria|20:00|Porto - Campanhã
+SERVICE|639|13.75|08:45|Lisboa - Oriente|09:40|Santarém|10:30|Pombal|11:10|Coimbra-B|11:50|Aveiro|12:30|Guimarães
+SERVICE|521|14.20|17:15|Porto - São Bento|17:50|Vila Nova de Gaia|18:20|Espinho|18:55|Ovar|19:30|Aveiro|20:10|Coimbra-B|21:00|Lisboa - Santa Apolónia
+SERVICE|834|11.90|06:50|Faro|07:40|Tunes|08:30|Lisboa - Oriente|09:20|Entroncamento|10:10|Coimbra-B|11:10|Porto - Campanhã
+SERVICE|713|13.00|07:15|Lisboa - Santa Apolónia|08:00|Entroncamento|08:45|Pombal|09:30|Coimbra-B|10:15|Aveiro|11:00|Porto - Campanhã
+SERVICE|824|15.50|14:40|Lisboa - Oriente|15:25|Santarém|16:10|Leiria|16:55|Coimbra-B|17:40|Aveiro|18:25|Braga
+SERVICE|935|12.75|19:30|Porto - São Bento|20:05|Vila Nova de Gaia|20:45|Espinho|21:20|Ovar|22:00|Aveiro|22:45|Coimbra-B|23:35|Lisboa - Oriente
+SERVICE|573|10.50|06:30|Lisboa - Santa Apolónia|07:25|Entroncamento|08:00|Pombal|08:45|Coimbra-B|09:30|Aveiro|10:10|Porto - Campanhã
+SERVICE|684|16.00|09:00|Lisboa - Oriente|10:10|Santarém|11:05|Leiria|11:50|Coimbra-B|12:30|Aveiro|13:15|Porto - Campanhã
+SERVICE|725|12.20|12:15|Lisboa - Oriente|13:00|Santarém|13:45|Entroncamento|14:30|Coimbra-B|15:15|Aveiro|16:00|Porto - Campanhã
+SERVICE|836|14.30|15:45|Porto - Campanhã|16:20|Espinho|17:00|Ovar|17:40|Aveiro|18:20|Coimbra-B|19:10|Lisboa - Oriente
+SERVICE|947|11.80|18:05|Lisboa - Santa Apolónia|18:50|Azambuja|19:30|Santarém|20:15|Entroncamento|21:00|Leiria|21:45|Porto - Campanhã
+SERVICE|268|9.50|08:20|Lisboa - Oriente|09:05|Santarém|09:50|Pombal|10:30|Coimbra-B|11:15|Aveiro|12:00|Guimarães
+SERVICE|179|13.50|11:30|Porto - São Bento|12:10|Vila Nova de Gaia|12:50|Espinho|13:30|Ovar|14:10|Aveiro|14:55|Coimbra-B|15:45|Lisboa - Santa Apolónia
+SERVICE|380|12.00|16:25|Porto - Campanhã|17:05|Espinho|17:45|Ovar|18:25|Aveiro|19:10|Coimbra-B|20:00|Lisboa - Oriente
+SERVICE|491|11.50|07:50|Faro|08:45|Tunes|09:30|Lisboa - Oriente|10:15|Entroncamento|11:00|Coimbra-B|12:00|Porto - Campanhã
+SERVICE|602|14.10|13:00|Lisboa - Oriente|13:45|Santarém|14:30|Entroncamento|15:15|Coimbra-B|16:00|Aveiro|16:45|Porto - Campanhã
+SERVICE|104|14.60|07:30|Lisboa - Santa Apolónia|08:20|Alfarelos|09:10|Coimbra-B|10:00|Guarda|11:15|Vilar Formoso
+SERVICE|215|12.90|08:50|Porto - Campanhã|09:45|Nine|10:30|Barcelos|11:10|Viana do Castelo|12:00|Valença|12:30|Tui (Espanha)
+SERVICE|326|10.75|14:20|Lisboa - Oriente|15:10|Caldas da Rainha|15:50|Figueira da Foz|16:30|Aveiro|17:20|Porto - Campanhã
+SERVICE|437|9.40|13:45|Coimbra-B|14:30|Mortágua|15:15|Santa Comba Dão|16:05|Mangualde|16:50|Guarda
+SERVICE|548|8.50|06:00|Guarda|07:00|Mangualde|07:45|Santa Comba Dão|08:30|Mortágua|09:15|Coimbra-B
+SERVICE|659|11.30|10:15|Porto - Campanhã|11:10|Vila Nova de Gaia|11:55|Ovar|12:35|Aveiro|13:20|Águeda|14:00|Santa Comba Dão|14:50|Guarda
+SERVICE|760|13.25|15:00|Lisboa - Santa Apolónia|15:50|Tomar|16:40|Fátima|17:30|Leiria|18:20|Coimbra-B|19:10|Aveiro
+SERVICE|871|10.00|18:45|Faro|19:40|Albufeira|20:25|Tunes|21:15|Lisboa - Oriente|22:00|Entroncamento
+SERVICE|982|9.70|12:10|Viana do Castelo|12:50|Barcelos|13:30|Nine|14:15|Porto - Campanhã
+SERVICE|193|11.90|08:25|Aveiro|09:10|Coimbra-B|09:50|Alfarelos|10:30|Pombal|11:15|Leiria|12:00|Lisboa - Oriente
+SERVICE|504|13.80|07:00|Lisboa - Santa Apolónia|08:00|Entroncamento|08:50|Tomar|09:40|Coimbra-B|10:30|Aveiro
+SERVICE|615|11.50|09:20|Porto - Campanhã|10:10|Espinho|10:50|Ovar|11:30|Aveiro|12:20|Coimbra-B|13:00|Figueira da Foz
+SERVICE|726|9.90|11:40|Guarda|12:30|Celorico da Beira|13:20|Mangualde|14:00|Santa Comba Dão|14:40|Coimbra-B
+SERVICE|837|7.70|15:10|Beja|15:55|Casa Branca|16:40|Évora|17:20|Lisboa - Oriente
+SERVICE|948|8.30|13:25|Cascais|13:50|Oeiras|14:20|Lisboa - Cais do Sodré|14:40|Lisboa - Santa Apolónia|15:30|Entroncamento
+SERVICE|159|12.00|16:00|Lisboa - Oriente|16:50|Santarém|17:40|Fátima|18:30|Tomar|19:20|Coimbra-B
+SERVICE|260|10.50|17:45|Porto - São Bento|18:30|Braga|19:15|Viana do Castelo|20:00|Valença
+SERVICE|371|7.90|14:50|Viseu|15:30|Nelas|16:10|Mangualde|17:00|Santa Comba Dão|17:40|Coimbra-B
+SERVICE|482|8.75|10:35|Lisboa - Oriente|11:20|Caldas da Rainha|12:10|Leiria|13:00|Figueira da Foz
+SERVICE|593|9.60|18:20|Faro|19:10|Albufeira|20:00|Tunes|20:45|Lisboa - Oriente
+SERVICE|101|6.50|06:20|Porto - Campanhã|06:35|Vila Nova de Gaia|06:50|Espinho|07:05|Ovar|07:20|Estarreja|07:35|Aveiro|07:50|Cacia|08:05|Albergaria-a-Velha|08:20|Oliveira de Azeméis|08:40|São João da Madeira|09:00|Espinho
+SERVICE|212|7.20|07:15|Lisboa - Santa Apolónia|07:30|Lisboa - Oriente|07:50|Sacavém|08:10|Alverca|08:30|Vila Franca de Xira|08:50|Carregado|09:10|Azambuja|09:30|Santana-Cartaxo|09:50|Santarém
+SERVICE|323|5.80|08:45|Aveiro|09:00|Cacia|09:15|Estarreja|09:30|Ovar|09:45|Espinho|10:00|Vila Nova de Gaia|10:15|Porto - Campanhã|10:30|Ermesinde|10:45|Valongo|11:00|Penafiel|11:15|Marco de Canaveses
+SERVICE|434|8.10|12:00|Coimbra-B|12:15|Alfarelos|12:30|Pombal|12:45|Vermoil|13:00|Leiria|13:15|Monte Real|13:30|Marinha Grande|13:45|Maceira|14:00|Caldas da Rainha
+SERVICE|545|6.00|14:30|Guarda|14:45|Celorico da Beira|15:00|Fornos de Algodres|15:15|Mangualde|15:30|Nelas|15:45|Carregal do Sal|16:00|Santa Comba Dão|16:15|Oliveira do Hospital|16:30|Arganil
+SERVICE|656|7.50|13:15|Viana do Castelo|13:30|Darque|13:45|Anha|14:00|Carreço|14:15|Afife|14:30|Caminha|14:45|Lanhelas|15:00|Valença|15:15|Monção
+SERVICE|767|6.30|17:00|Beja|17:15|Santa Clara-Saboia|17:30|Funcheira|17:45|Amoreiras-Odemira|18:00|Sabóia|18:15|São Marcos da Serra|18:30|Tunes|18:45|Albufeira|19:00|Faro
+SERVICE|878|5.70|09:05|Évora|09:20|Casa Branca|09:35|Viana do Alentejo|09:50|Alvito|10:05|Ferreira do Alentejo|10:20|Aljustrel|10:35|Ourique|10:50|Ervidel|11:05|Beja
+SERVICE|989|6.80|15:20|Lisboa - Oriente|15:35|Sacavém|15:50|Alverca|16:05|Vila Franca de Xira|16:20|Carregado|16:35|Azambuja|16:50|Santana-Cartaxo|17:05|Vale de Santarém|17:20|Santarém
+SERVICE|200|6.90|10:10|Caldas da Rainha|10:25|Tornada|10:40|Bombarral|10:55|Vilar|11:10|Torres Vedras|11:25|Malveira|11:40|Mafra|11:55|Meleças|12:10|Amadora|12:25|Lisboa - Santa Apolónia
